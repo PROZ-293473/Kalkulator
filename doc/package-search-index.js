@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.radek.kalkulator"},{"l":"com.radek.kalkulator.model"},{"l":"com.radek.kalkulator.view"}]
